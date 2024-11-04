@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0002 | 2024-11-03T18:27:58Z
+Entry 0003 | 2024-11-04T07:15:42Z
 
-**Change:** refactor: move constants to centralized config
-**Nonce:** 221343
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 136013
