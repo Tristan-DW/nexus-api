@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0004 | 2024-11-04T10:31:30Z
+Entry 0005 | 2024-11-04T18:38:50Z
 
-**Change:** fix: correct permission check logic
-**Nonce:** 887963
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 593450
