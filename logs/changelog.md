@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0006 | 2024-11-05T12:01:24Z
+Entry 0007 | 2024-11-06T13:14:57Z
 
-**Change:** feat: add multi-language support scaffolding
-**Nonce:** 491725
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 468370
