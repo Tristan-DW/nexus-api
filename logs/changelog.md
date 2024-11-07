@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0009 | 2024-11-07T13:43:30Z
+Entry 0010 | 2024-11-07T16:08:59Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 583824
+**Change:** fix: resolve connection leak in pool
+**Nonce:** 338869
