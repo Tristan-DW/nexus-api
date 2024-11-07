@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0008 | 2024-11-07T12:32:31Z
+Entry 0009 | 2024-11-07T13:43:30Z
 
-**Change:** refactor: standardize API response envelope
-**Nonce:** 699100
+**Change:** feat: bootstrap project scaffolding
+**Nonce:** 583824
