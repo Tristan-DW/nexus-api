@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0007 | 2024-11-06T13:14:57Z
+Entry 0008 | 2024-11-07T12:32:31Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 468370
+**Change:** refactor: standardize API response envelope
+**Nonce:** 699100
