@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0010 | 2024-11-07T16:08:59Z
+Entry 0011 | 2024-11-08T12:52:18Z
 
-**Change:** fix: resolve connection leak in pool
-**Nonce:** 338869
+**Change:** feat: build analytics widgets for dashboard
+**Nonce:** 261304
