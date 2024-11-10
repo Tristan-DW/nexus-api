@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0012 | 2024-11-10T14:05:11Z
+Entry 0013 | 2024-11-10T16:06:42Z
 
-**Change:** fix: handle token refresh edge case
-**Nonce:** 721175
+**Change:** fix: resolve memory leak in event emitter
+**Nonce:** 513060
