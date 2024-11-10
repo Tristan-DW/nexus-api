@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0013 | 2024-11-10T16:06:42Z
+Entry 0014 | 2024-11-10T17:51:36Z
 
-**Change:** fix: resolve memory leak in event emitter
-**Nonce:** 513060
+**Change:** test: add regression tests for known bugs
+**Nonce:** 901898
