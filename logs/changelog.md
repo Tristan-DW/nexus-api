@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0016 | 2024-11-11T12:34:51Z
+Entry 0017 | 2024-11-11T15:59:34Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 347602
+**Change:** feat: implement core business logic
+**Nonce:** 412405
