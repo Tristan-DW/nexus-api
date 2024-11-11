@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0017 | 2024-11-11T15:59:34Z
+Entry 0018 | 2024-11-11T17:34:41Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 412405
+**Change:** refactor: standardize API response envelope
+**Nonce:** 387820
