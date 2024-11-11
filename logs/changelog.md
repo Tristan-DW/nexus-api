@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0014 | 2024-11-10T17:51:36Z
+Entry 0015 | 2024-11-11T12:24:33Z
 
-**Change:** test: add regression tests for known bugs
-**Nonce:** 901898
+**Change:** perf: reduce initial bundle size
+**Nonce:** 987524
