@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0020 | 2024-11-12T13:05:15Z
+Entry 0021 | 2024-11-12T18:31:54Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 604267
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 607772
