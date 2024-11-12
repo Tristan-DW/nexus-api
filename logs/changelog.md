@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0021 | 2024-11-12T18:31:54Z
+Entry 0022 | 2024-11-12T19:11:14Z
 
-**Change:** fix: correct decimal rounding in calculations
-**Nonce:** 607772
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 985413
