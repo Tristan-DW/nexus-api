@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0022 | 2024-11-12T19:11:14Z
+Entry 0023 | 2024-11-13T10:31:27Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 985413
+**Change:** perf: precompute report aggregations
+**Nonce:** 388016
