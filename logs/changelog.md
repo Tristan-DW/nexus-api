@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0023 | 2024-11-13T10:31:27Z
+Entry 0024 | 2024-11-13T16:39:03Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 388016
+**Change:** fix: handle token refresh edge case
+**Nonce:** 141190
