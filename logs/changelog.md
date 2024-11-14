@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0024 | 2024-11-13T16:39:03Z
+Entry 0025 | 2024-11-14T20:09:53Z
 
-**Change:** fix: handle token refresh edge case
-**Nonce:** 141190
+**Change:** feat: add multi-language support scaffolding
+**Nonce:** 211187
