@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0026 | 2024-11-17T09:03:32Z
+Entry 0027 | 2024-11-17T16:40:20Z
 
-**Change:** chore: set up CI/CD pipeline
-**Nonce:** 859523
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 426646
