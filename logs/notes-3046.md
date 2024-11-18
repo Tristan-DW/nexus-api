@@ -1,6 +1,6 @@
 # Notes
 
-perf: reduce redundant lookups
+feat: wire up missing route handler
 
-Timestamp: 2024-11-15T10:22:49Z
-Nonce: 575823
+Timestamp: 2024-11-18T14:16:37Z
+Nonce: 202702
