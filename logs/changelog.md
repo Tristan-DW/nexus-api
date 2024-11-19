@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0031 | 2024-11-19T10:00:14Z
+Entry 0032 | 2024-11-19T11:42:32Z
 
-**Change:** feat: add authentication and session management
-**Nonce:** 488302
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 905293
