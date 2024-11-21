@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0033 | 2024-11-20T14:26:39Z
+Entry 0034 | 2024-11-21T10:37:54Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 635367
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 279182
