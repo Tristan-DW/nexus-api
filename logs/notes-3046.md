@@ -1,6 +1,6 @@
 # Notes
 
-feat: wire up missing route handler
+fix: handle empty array input
 
-Timestamp: 2024-11-18T14:16:37Z
-Nonce: 202702
+Timestamp: 2024-11-21T11:55:30Z
+Nonce: 954866
