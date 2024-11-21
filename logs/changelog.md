@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0034 | 2024-11-21T10:37:54Z
+Entry 0035 | 2024-11-21T19:44:35Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 279182
+**Change:** fix: correct database migration order
+**Nonce:** 760532
