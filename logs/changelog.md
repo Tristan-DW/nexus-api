@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0035 | 2024-11-21T19:44:35Z
+Entry 0036 | 2024-11-23T15:45:30Z
 
-**Change:** fix: correct database migration order
-**Nonce:** 760532
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 647396
