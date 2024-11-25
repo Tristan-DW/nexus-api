@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0036 | 2024-11-23T15:45:30Z
+Entry 0037 | 2024-11-25T11:59:22Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 647396
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 482322
