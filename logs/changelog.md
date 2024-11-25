@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0039 | 2024-11-25T15:55:24Z
+Entry 0040 | 2024-11-25T17:04:51Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 827548
+**Change:** feat: add multi-language support scaffolding
+**Nonce:** 786236
