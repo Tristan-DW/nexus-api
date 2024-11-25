@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0040 | 2024-11-25T17:04:51Z
+Entry 0041 | 2024-11-25T18:40:21Z
 
-**Change:** feat: add multi-language support scaffolding
-**Nonce:** 786236
+**Change:** fix: correct database migration order
+**Nonce:** 649313
