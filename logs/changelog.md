@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0038 | 2024-11-25T12:10:00Z
+Entry 0039 | 2024-11-25T15:55:24Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 419674
+**Change:** chore: document all environment variables
+**Nonce:** 827548
