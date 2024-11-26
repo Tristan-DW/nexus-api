@@ -1,6 +1,6 @@
 # Notes
 
-chore: update lockfile
+fix: correct response envelope format
 
-Timestamp: 2024-11-26T11:26:46Z
-Nonce: 506337
+Timestamp: 2024-11-26T20:10:41Z
+Nonce: 701935
