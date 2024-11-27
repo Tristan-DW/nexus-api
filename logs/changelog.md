@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0043 | 2024-11-27T12:34:48Z
+Entry 0044 | 2024-11-27T14:07:56Z
 
-**Change:** fix: correct database migration order
-**Nonce:** 723477
+**Change:** feat: implement core business logic
+**Nonce:** 785509
