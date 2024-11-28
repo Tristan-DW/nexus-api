@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0046 | 2024-11-28T08:22:52Z
+Entry 0047 | 2024-11-28T14:40:07Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 685343
+**Change:** feat: set up initial database schema
+**Nonce:** 871646
