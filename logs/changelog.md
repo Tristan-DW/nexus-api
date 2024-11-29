@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0048 | 2024-11-29T14:22:40Z
+Entry 0049 | 2024-11-29T19:47:12Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 191059
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 656681
