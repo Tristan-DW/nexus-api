@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0047 | 2024-11-28T14:40:07Z
+Entry 0048 | 2024-11-29T14:22:40Z
 
-**Change:** feat: set up initial database schema
-**Nonce:** 871646
+**Change:** feat: integrate payment gateway
+**Nonce:** 191059
