@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0049 | 2024-11-29T19:47:12Z
+Entry 0050 | 2024-12-02T07:00:12Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 656681
+**Change:** feat: implement data archiving strategy
+**Nonce:** 601260
