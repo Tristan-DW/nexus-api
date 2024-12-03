@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0051 | 2024-12-02T09:20:21Z
+Entry 0052 | 2024-12-03T20:07:03Z
 
-**Change:** feat: build analytics widgets for dashboard
-**Nonce:** 713123
+**Change:** feat: integrate payment gateway
+**Nonce:** 728990
