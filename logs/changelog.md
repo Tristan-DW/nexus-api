@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0052 | 2024-12-03T20:07:03Z
+Entry 0053 | 2024-12-03T20:16:00Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 728990
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 343014
