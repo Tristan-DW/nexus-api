@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0053 | 2024-12-03T20:16:00Z
+Entry 0054 | 2024-12-03T20:58:34Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 343014
+**Change:** fix: correct database migration order
+**Nonce:** 138648
