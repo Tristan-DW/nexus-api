@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0054 | 2024-12-03T20:58:34Z
+Entry 0055 | 2024-12-04T11:07:55Z
 
-**Change:** fix: correct database migration order
-**Nonce:** 138648
+**Change:** feat: implement export to CSV and PDF
+**Nonce:** 803005
