@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0057 | 2024-12-06T11:26:56Z
+Entry 0058 | 2024-12-07T15:52:59Z
 
-**Change:** feat: implement export to CSV and PDF
-**Nonce:** 883851
+**Change:** chore: configure linting and code formatting
+**Nonce:** 667992
