@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0058 | 2024-12-07T15:52:59Z
+Entry 0059 | 2024-12-09T10:10:05Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 667992
+**Change:** feat: add user management module
+**Nonce:** 349449
