@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0059 | 2024-12-09T10:10:05Z
+Entry 0060 | 2024-12-10T12:05:39Z
 
-**Change:** feat: add user management module
-**Nonce:** 349449
+**Change:** fix: correct order status state machine
+**Nonce:** 695858
