@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0061 | 2024-12-10T16:08:00Z
+Entry 0062 | 2024-12-11T14:21:03Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 483750
+**Change:** docs: initial README and setup guide
+**Nonce:** 145076
