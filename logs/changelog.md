@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0062 | 2024-12-11T14:21:03Z
+Entry 0063 | 2024-12-11T16:31:02Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 145076
+**Change:** perf: reduce initial bundle size
+**Nonce:** 180677
