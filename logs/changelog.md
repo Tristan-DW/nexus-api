@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0064 | 2024-12-13T12:50:58Z
+Entry 0065 | 2024-12-13T14:44:00Z
 
-**Change:** feat: implement data archiving strategy
-**Nonce:** 677935
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 768010
