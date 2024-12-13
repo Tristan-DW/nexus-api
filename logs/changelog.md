@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0063 | 2024-12-11T16:31:02Z
+Entry 0064 | 2024-12-13T12:50:58Z
 
-**Change:** perf: reduce initial bundle size
-**Nonce:** 180677
+**Change:** feat: implement data archiving strategy
+**Nonce:** 677935
