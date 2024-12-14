@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0065 | 2024-12-13T14:44:00Z
+Entry 0066 | 2024-12-14T11:58:18Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 768010
+**Change:** feat: set up initial database schema
+**Nonce:** 332963
