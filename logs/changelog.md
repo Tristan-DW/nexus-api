@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0069 | 2024-12-16T14:05:44Z
+Entry 0070 | 2024-12-16T16:12:55Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 543858
+**Change:** refactor: clean up legacy controller code
+**Nonce:** 874922
