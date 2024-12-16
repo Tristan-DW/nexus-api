@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0068 | 2024-12-16T11:57:10Z
+Entry 0069 | 2024-12-16T14:05:44Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 525483
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 543858
