@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0071 | 2024-12-17T10:52:53Z
+Entry 0072 | 2024-12-17T17:34:38Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 200104
+**Change:** feat: bootstrap project scaffolding
+**Nonce:** 921582
