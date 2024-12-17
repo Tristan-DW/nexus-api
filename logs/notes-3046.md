@@ -1,6 +1,6 @@
 # Notes
 
-chore: update lockfile
+refactor: simplify conditional logic
 
-Timestamp: 2024-12-13T18:54:51Z
-Nonce: 687765
+Timestamp: 2024-12-17T12:12:21Z
+Nonce: 916889
