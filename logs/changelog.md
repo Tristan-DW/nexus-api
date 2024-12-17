@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0070 | 2024-12-16T16:12:55Z
+Entry 0071 | 2024-12-17T10:52:53Z
 
-**Change:** refactor: clean up legacy controller code
-**Nonce:** 874922
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 200104
