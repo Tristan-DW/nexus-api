@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0073 | 2024-12-18T14:16:40Z
+Entry 0074 | 2024-12-18T16:08:03Z
 
-**Change:** fix: correct decimal rounding in calculations
-**Nonce:** 502360
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 121197
