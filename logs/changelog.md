@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0072 | 2024-12-17T17:34:38Z
+Entry 0073 | 2024-12-18T14:16:40Z
 
-**Change:** feat: bootstrap project scaffolding
-**Nonce:** 921582
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 502360
