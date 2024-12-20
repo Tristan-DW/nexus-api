@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0076 | 2024-12-20T11:48:57Z
+Entry 0077 | 2024-12-20T12:37:15Z
 
 **Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 726424
+**Nonce:** 274947
