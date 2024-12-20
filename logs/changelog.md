@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0075 | 2024-12-20T10:47:58Z
+Entry 0076 | 2024-12-20T11:48:57Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 611472
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 726424
