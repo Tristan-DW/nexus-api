@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0077 | 2024-12-20T12:37:15Z
+Entry 0078 | 2024-12-21T09:47:01Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 274947
+**Change:** feat: add transactional email templates
+**Nonce:** 994724
