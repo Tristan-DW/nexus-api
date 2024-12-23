@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0078 | 2024-12-21T09:47:01Z
+Entry 0079 | 2024-12-23T19:30:03Z
 
-**Change:** feat: add transactional email templates
-**Nonce:** 994724
+**Change:** refactor: restructure routing layer
+**Nonce:** 993298
