@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0080 | 2024-12-24T14:38:30Z
+Entry 0081 | 2024-12-24T18:50:32Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 572077
+**Change:** feat: implement core business logic
+**Nonce:** 903577
