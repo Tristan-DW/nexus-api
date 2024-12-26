@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0082 | 2024-12-26T12:41:14Z
+Entry 0083 | 2024-12-26T19:26:31Z
 
-**Change:** fix: correct decimal rounding in calculations
-**Nonce:** 733121
+**Change:** chore: document all environment variables
+**Nonce:** 668296
