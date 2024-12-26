@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0081 | 2024-12-24T18:50:32Z
+Entry 0082 | 2024-12-26T12:41:14Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 903577
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 733121
