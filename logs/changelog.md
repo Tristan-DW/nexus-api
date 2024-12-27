@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0084 | 2024-12-27T12:44:29Z
+Entry 0085 | 2024-12-27T13:21:18Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 526083
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 173950
