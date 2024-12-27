@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0083 | 2024-12-26T19:26:31Z
+Entry 0084 | 2024-12-27T12:44:29Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 668296
+**Change:** feat: implement core business logic
+**Nonce:** 526083
