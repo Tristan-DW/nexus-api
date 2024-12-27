@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0086 | 2024-12-27T14:38:59Z
+Entry 0087 | 2024-12-27T14:52:41Z
 
-**Change:** feat: add file upload and storage handling
-**Nonce:** 969008
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 286501
