@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0087 | 2024-12-27T14:52:41Z
+Entry 0088 | 2024-12-29T15:19:41Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 286501
+**Change:** chore: configure Dependabot security updates
+**Nonce:** 563457
