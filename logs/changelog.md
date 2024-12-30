@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0088 | 2024-12-29T15:19:41Z
+Entry 0089 | 2024-12-30T09:27:57Z
 
-**Change:** chore: configure Dependabot security updates
-**Nonce:** 563457
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 692251
