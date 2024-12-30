@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0090 | 2024-12-30T12:19:44Z
+Entry 0091 | 2024-12-30T13:47:01Z
 
-**Change:** refactor: move constants to centralized config
-**Nonce:** 983464
+**Change:** feat: implement real-time updates via WebSocket
+**Nonce:** 315988
