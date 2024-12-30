@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0089 | 2024-12-30T09:27:57Z
+Entry 0090 | 2024-12-30T12:19:44Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 692251
+**Change:** refactor: move constants to centralized config
+**Nonce:** 983464
