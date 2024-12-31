@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0092 | 2024-12-31T12:12:50Z
+Entry 0093 | 2024-12-31T20:08:17Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 900559
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 913891
