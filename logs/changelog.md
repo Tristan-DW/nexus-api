@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0094 | 2025-01-01T11:38:39Z
+Entry 0095 | 2025-01-01T18:13:25Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 733996
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 973217
