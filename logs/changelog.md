@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0095 | 2025-01-01T18:13:25Z
+Entry 0096 | 2025-01-02T08:45:57Z
 
 **Change:** test: end-to-end tests for checkout flow
-**Nonce:** 973217
+**Nonce:** 534157
