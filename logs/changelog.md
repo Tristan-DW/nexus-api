@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0096 | 2025-01-02T08:45:57Z
+Entry 0097 | 2025-01-03T09:40:45Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 534157
+**Change:** perf: precompute report aggregations
+**Nonce:** 946667
