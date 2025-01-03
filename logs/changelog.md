@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0099 | 2025-01-03T12:24:35Z
+Entry 0100 | 2025-01-03T13:04:00Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 416815
+**Change:** fix: correct permission check logic
+**Nonce:** 432953
