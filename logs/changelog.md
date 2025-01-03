@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0100 | 2025-01-03T13:04:00Z
+Entry 0101 | 2025-01-03T18:17:23Z
 
-**Change:** fix: correct permission check logic
-**Nonce:** 432953
+**Change:** feat: implement export to CSV and PDF
+**Nonce:** 717121
