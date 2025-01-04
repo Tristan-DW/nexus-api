@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0102 | 2025-01-04T14:20:15Z
+Entry 0103 | 2025-01-04T19:29:36Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 265022
+**Change:** perf: precompute report aggregations
+**Nonce:** 249842
