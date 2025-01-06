@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0104 | 2025-01-06T11:17:03Z
+Entry 0105 | 2025-01-06T13:44:45Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 366802
+**Change:** feat: set up initial database schema
+**Nonce:** 276855
