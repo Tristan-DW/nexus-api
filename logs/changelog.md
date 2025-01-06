@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0107 | 2025-01-06T14:06:04Z
+Entry 0108 | 2025-01-06T15:16:31Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 683628
+**Change:** feat: set up initial database schema
+**Nonce:** 259039
