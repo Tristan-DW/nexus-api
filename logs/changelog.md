@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0106 | 2025-01-06T13:49:39Z
+Entry 0107 | 2025-01-06T14:06:04Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 559499
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 683628
