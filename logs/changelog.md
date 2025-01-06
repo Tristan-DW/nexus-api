@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0103 | 2025-01-04T19:29:36Z
+Entry 0104 | 2025-01-06T11:17:03Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 249842
+**Change:** fix: correct order status state machine
+**Nonce:** 366802
