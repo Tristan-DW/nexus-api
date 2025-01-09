@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0112 | 2025-01-09T11:16:55Z
+Entry 0113 | 2025-01-09T12:11:55Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 842214
+**Change:** docs: initial README and setup guide
+**Nonce:** 740569
