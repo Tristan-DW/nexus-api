@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0113 | 2025-01-09T12:11:55Z
+Entry 0114 | 2025-01-10T08:46:50Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 740569
+**Change:** refactor: restructure routing layer
+**Nonce:** 605194
