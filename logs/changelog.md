@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0114 | 2025-01-10T08:46:50Z
+Entry 0115 | 2025-01-12T14:44:18Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 605194
+**Change:** chore: set up CI/CD pipeline
+**Nonce:** 579683
