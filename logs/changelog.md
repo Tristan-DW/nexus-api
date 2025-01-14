@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0117 | 2025-01-13T16:00:53Z
+Entry 0118 | 2025-01-14T08:59:00Z
 
-**Change:** feat: implement real-time updates via WebSocket
-**Nonce:** 112504
+**Change:** feat: add transactional email templates
+**Nonce:** 136404
