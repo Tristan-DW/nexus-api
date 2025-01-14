@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0118 | 2025-01-14T08:59:00Z
+Entry 0119 | 2025-01-14T15:26:41Z
 
-**Change:** feat: add transactional email templates
-**Nonce:** 136404
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 321447
