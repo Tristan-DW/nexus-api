@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0119 | 2025-01-14T15:26:41Z
+Entry 0120 | 2025-01-14T15:41:23Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 321447
+**Change:** chore: configure Dependabot security updates
+**Nonce:** 830630
