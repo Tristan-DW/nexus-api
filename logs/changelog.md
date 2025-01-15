@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0121 | 2025-01-15T09:04:16Z
+Entry 0122 | 2025-01-15T13:12:10Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 456095
+**Change:** chore: document all environment variables
+**Nonce:** 489955
