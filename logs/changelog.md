@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0122 | 2025-01-15T13:12:10Z
+Entry 0123 | 2025-01-15T13:44:00Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 489955
+**Change:** test: add regression tests for known bugs
+**Nonce:** 633533
