@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0124 | 2025-01-16T07:43:10Z
+Entry 0125 | 2025-01-16T11:48:59Z
 
-**Change:** feat: implement core business logic
-**Nonce:** 149744
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 684104
