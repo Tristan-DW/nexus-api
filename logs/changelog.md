@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0123 | 2025-01-15T13:44:00Z
+Entry 0124 | 2025-01-16T07:43:10Z
 
-**Change:** test: add regression tests for known bugs
-**Nonce:** 633533
+**Change:** feat: implement core business logic
+**Nonce:** 149744
