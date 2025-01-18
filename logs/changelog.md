@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0125 | 2025-01-16T11:48:59Z
+Entry 0126 | 2025-01-18T16:28:12Z
 
-**Change:** test: write smoke tests for critical flows
-**Nonce:** 684104
+**Change:** chore: configure linting and code formatting
+**Nonce:** 909304
