@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0126 | 2025-01-18T16:28:12Z
+Entry 0127 | 2025-01-19T12:25:15Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 909304
+**Change:** feat: set up initial database schema
+**Nonce:** 420699
