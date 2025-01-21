@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0129 | 2025-01-21T09:49:57Z
+Entry 0130 | 2025-01-21T11:44:10Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 177131
+**Change:** feat: add multi-language support scaffolding
+**Nonce:** 962306
