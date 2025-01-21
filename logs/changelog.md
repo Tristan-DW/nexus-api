@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0131 | 2025-01-21T12:26:02Z
+Entry 0132 | 2025-01-21T12:42:09Z
 
-**Change:** refactor: introduce repository pattern
-**Nonce:** 199939
+**Change:** refactor: decouple data and presentation layers
+**Nonce:** 284155
