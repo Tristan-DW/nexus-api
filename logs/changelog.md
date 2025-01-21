@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0128 | 2025-01-20T18:59:26Z
+Entry 0129 | 2025-01-21T09:49:57Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 239256
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 177131
