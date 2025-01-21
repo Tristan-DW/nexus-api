@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0130 | 2025-01-21T11:44:10Z
+Entry 0131 | 2025-01-21T12:26:02Z
 
-**Change:** feat: add multi-language support scaffolding
-**Nonce:** 962306
+**Change:** refactor: introduce repository pattern
+**Nonce:** 199939
