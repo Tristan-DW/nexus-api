@@ -1,6 +1,6 @@
 # Notes
 
-chore: update lockfile
+feat: wire up missing route handler
 
-Timestamp: 2025-01-18T19:36:27Z
-Nonce: 119154
+Timestamp: 2025-01-22T14:59:13Z
+Nonce: 254851
