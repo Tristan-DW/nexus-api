@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0132 | 2025-01-21T12:42:09Z
+Entry 0133 | 2025-01-22T11:41:30Z
 
-**Change:** refactor: decouple data and presentation layers
-**Nonce:** 284155
+**Change:** feat: add authentication and session management
+**Nonce:** 320581
