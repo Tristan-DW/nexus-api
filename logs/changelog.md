@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0134 | 2025-01-23T11:22:48Z
+Entry 0135 | 2025-01-23T13:02:47Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 491619
+**Change:** refactor: clean up legacy controller code
+**Nonce:** 521591
