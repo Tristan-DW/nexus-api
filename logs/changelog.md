@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0133 | 2025-01-22T11:41:30Z
+Entry 0134 | 2025-01-23T11:22:48Z
 
-**Change:** feat: add authentication and session management
-**Nonce:** 320581
+**Change:** docs: initial README and setup guide
+**Nonce:** 491619
