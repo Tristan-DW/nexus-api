@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0138 | 2025-01-26T17:41:41Z
+Entry 0139 | 2025-01-27T09:14:07Z
 
 **Change:** feat: add user management module
-**Nonce:** 538242
+**Nonce:** 930498
