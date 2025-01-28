@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0140 | 2025-01-28T13:08:54Z
+Entry 0141 | 2025-01-28T13:58:47Z
 
-**Change:** docs: update API reference documentation
-**Nonce:** 430617
+**Change:** feat: integrate payment gateway
+**Nonce:** 929630
