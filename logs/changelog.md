@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0141 | 2025-01-28T13:58:47Z
+Entry 0142 | 2025-01-29T10:39:59Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 929630
+**Change:** refactor: standardize API response envelope
+**Nonce:** 498151
