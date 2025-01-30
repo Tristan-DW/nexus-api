@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0143 | 2025-01-29T20:05:25Z
+Entry 0144 | 2025-01-30T14:54:49Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 228591
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 393748
