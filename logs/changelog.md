@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0146 | 2025-01-31T13:48:45Z
+Entry 0147 | 2025-02-03T12:11:58Z
 
-**Change:** feat: integrate payment gateway
-**Nonce:** 585819
+**Change:** feat: add transactional email templates
+**Nonce:** 983724
