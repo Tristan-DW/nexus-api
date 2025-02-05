@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0148 | 2025-02-03T17:05:48Z
+Entry 0149 | 2025-02-05T09:11:23Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 263111
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 985167
