@@ -1,6 +1,6 @@
 # Notes
 
-chore: clean up after merge
+fix: type mismatch in serializer
 
-Timestamp: 2025-01-30T10:57:58Z
-Nonce: 425156
+Timestamp: 2025-02-06T21:43:40Z
+Nonce: 469890
