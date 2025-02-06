@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0151 | 2025-02-06T14:15:16Z
+Entry 0152 | 2025-02-06T14:25:07Z
 
-**Change:** feat: implement export to CSV and PDF
-**Nonce:** 105644
+**Change:** refactor: restructure routing layer
+**Nonce:** 570952
