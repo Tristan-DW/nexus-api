@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0152 | 2025-02-06T14:25:07Z
+Entry 0153 | 2025-02-06T20:06:03Z
 
-**Change:** refactor: restructure routing layer
-**Nonce:** 570952
+**Change:** perf: add query result caching layer
+**Nonce:** 846376
