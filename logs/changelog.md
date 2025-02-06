@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0150 | 2025-02-05T14:19:45Z
+Entry 0151 | 2025-02-06T14:15:16Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 824675
+**Change:** feat: implement export to CSV and PDF
+**Nonce:** 105644
