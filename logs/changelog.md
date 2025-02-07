@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0153 | 2025-02-06T20:06:03Z
+Entry 0154 | 2025-02-07T08:58:23Z
 
-**Change:** perf: add query result caching layer
-**Nonce:** 846376
+**Change:** chore: document all environment variables
+**Nonce:** 463846
