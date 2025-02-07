@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0155 | 2025-02-07T10:27:44Z
+Entry 0156 | 2025-02-07T10:33:17Z
 
-**Change:** fix: resolve memory leak in event emitter
-**Nonce:** 127846
+**Change:** fix: correct timestamp serialization format
+**Nonce:** 374098
