@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0154 | 2025-02-07T08:58:23Z
+Entry 0155 | 2025-02-07T10:27:44Z
 
-**Change:** chore: document all environment variables
-**Nonce:** 463846
+**Change:** fix: resolve memory leak in event emitter
+**Nonce:** 127846
