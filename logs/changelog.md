@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0156 | 2025-02-07T10:33:17Z
+Entry 0157 | 2025-02-07T13:41:19Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 374098
+**Change:** test: add regression tests for known bugs
+**Nonce:** 979533
