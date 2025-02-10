@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0161 | 2025-02-10T10:25:11Z
+Entry 0162 | 2025-02-10T10:48:36Z
 
-**Change:** refactor: introduce repository pattern
-**Nonce:** 167162
+**Change:** docs: initial README and setup guide
+**Nonce:** 767248
