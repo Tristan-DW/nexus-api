@@ -1,6 +1,6 @@
 # Notes
 
-chore: remove dead code
+fix: type mismatch in serializer
 
-Timestamp: 2025-02-11T16:12:44Z
-Nonce: 926862
+Timestamp: 2025-02-11T20:59:20Z
+Nonce: 612335
