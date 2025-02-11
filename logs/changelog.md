@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0163 | 2025-02-11T11:15:39Z
+Entry 0164 | 2025-02-11T11:28:53Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 216239
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 568266
