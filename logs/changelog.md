@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0165 | 2025-02-11T18:42:23Z
+Entry 0166 | 2025-02-12T09:07:18Z
 
-**Change:** feat: implement export to CSV and PDF
-**Nonce:** 464874
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 783955
