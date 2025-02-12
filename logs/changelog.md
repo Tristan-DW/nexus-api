@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0166 | 2025-02-12T09:07:18Z
+Entry 0167 | 2025-02-12T18:33:44Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 783955
+**Change:** refactor: decouple data and presentation layers
+**Nonce:** 168741
