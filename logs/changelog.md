@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0167 | 2025-02-12T18:33:44Z
+Entry 0168 | 2025-02-13T11:09:32Z
 
-**Change:** refactor: decouple data and presentation layers
-**Nonce:** 168741
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 634158
