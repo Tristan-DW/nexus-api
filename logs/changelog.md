@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0170 | 2025-02-13T18:47:20Z
+Entry 0171 | 2025-02-14T20:44:43Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 166094
+**Change:** refactor: introduce repository pattern
+**Nonce:** 294151
