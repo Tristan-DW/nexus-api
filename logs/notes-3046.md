@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct response envelope format
+fix: correct off-by-one in pagination
 
-Timestamp: 2025-02-13T16:27:15Z
-Nonce: 543841
+Timestamp: 2025-02-15T17:26:43Z
+Nonce: 597432
