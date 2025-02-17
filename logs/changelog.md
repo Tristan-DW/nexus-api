@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0172 | 2025-02-15T14:16:33Z
+Entry 0173 | 2025-02-17T07:51:04Z
 
-**Change:** fix: resolve connection leak in pool
-**Nonce:** 760512
+**Change:** refactor: introduce repository pattern
+**Nonce:** 755969
