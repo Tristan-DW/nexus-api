@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0173 | 2025-02-17T07:51:04Z
+Entry 0174 | 2025-02-17T13:22:43Z
 
-**Change:** refactor: introduce repository pattern
-**Nonce:** 755969
+**Change:** docs: update API reference documentation
+**Nonce:** 678238
