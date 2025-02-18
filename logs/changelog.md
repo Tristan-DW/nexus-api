@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0175 | 2025-02-18T20:49:18Z
+Entry 0176 | 2025-02-18T21:52:57Z
 
-**Change:** perf: precompute report aggregations
-**Nonce:** 254144
+**Change:** fix: address reflected XSS in output layer
+**Nonce:** 350257
