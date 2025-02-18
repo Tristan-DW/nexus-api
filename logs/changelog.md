@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0174 | 2025-02-17T13:22:43Z
+Entry 0175 | 2025-02-18T20:49:18Z
 
-**Change:** docs: update API reference documentation
-**Nonce:** 678238
+**Change:** perf: precompute report aggregations
+**Nonce:** 254144
