@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0176 | 2025-02-18T21:52:57Z
+Entry 0177 | 2025-02-20T15:57:30Z
 
-**Change:** fix: address reflected XSS in output layer
-**Nonce:** 350257
+**Change:** fix: handle expired JWT tokens gracefully
+**Nonce:** 221155
