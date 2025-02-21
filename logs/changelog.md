@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0177 | 2025-02-20T15:57:30Z
+Entry 0178 | 2025-02-21T12:09:24Z
 
-**Change:** fix: handle expired JWT tokens gracefully
-**Nonce:** 221155
+**Change:** perf: implement server-side pagination
+**Nonce:** 775351
