@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0180 | 2025-02-23T14:00:07Z
+Entry 0181 | 2025-02-24T10:14:32Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 721420
+**Change:** feat: build analytics widgets for dashboard
+**Nonce:** 478209
