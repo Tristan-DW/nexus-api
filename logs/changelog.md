@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0181 | 2025-02-24T10:14:32Z
+Entry 0182 | 2025-02-25T11:46:20Z
 
-**Change:** feat: build analytics widgets for dashboard
-**Nonce:** 478209
+**Change:** fix: correct order status state machine
+**Nonce:** 406255
