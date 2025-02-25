@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0182 | 2025-02-25T11:46:20Z
+Entry 0183 | 2025-02-25T12:47:29Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 406255
+**Change:** refactor: clean up legacy controller code
+**Nonce:** 370712
