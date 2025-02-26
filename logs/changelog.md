@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0184 | 2025-02-26T14:33:38Z
+Entry 0185 | 2025-02-26T17:09:04Z
 
-**Change:** refactor: decouple data and presentation layers
-**Nonce:** 503677
+**Change:** docs: update API reference documentation
+**Nonce:** 189539
