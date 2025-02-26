@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0183 | 2025-02-25T12:47:29Z
+Entry 0184 | 2025-02-26T14:33:38Z
 
-**Change:** refactor: clean up legacy controller code
-**Nonce:** 370712
+**Change:** refactor: decouple data and presentation layers
+**Nonce:** 503677
