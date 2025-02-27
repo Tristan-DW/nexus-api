@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0188 | 2025-02-27T15:29:09Z
+Entry 0189 | 2025-02-27T16:00:05Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 393114
+**Change:** feat: build admin dashboard backend
+**Nonce:** 369673
