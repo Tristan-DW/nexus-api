@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0189 | 2025-02-27T16:00:05Z
+Entry 0190 | 2025-02-27T16:59:01Z
 
-**Change:** feat: build admin dashboard backend
-**Nonce:** 369673
+**Change:** perf: implement server-side pagination
+**Nonce:** 863625
