@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0187 | 2025-02-27T12:21:15Z
+Entry 0188 | 2025-02-27T15:29:09Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 628563
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 393114
