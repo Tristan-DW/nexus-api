@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0185 | 2025-02-26T17:09:04Z
+Entry 0186 | 2025-02-27T07:56:09Z
 
-**Change:** docs: update API reference documentation
-**Nonce:** 189539
+**Change:** chore: upgrade runtime to latest LTS
+**Nonce:** 437727
