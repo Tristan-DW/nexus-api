@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0191 | 2025-02-28T11:50:58Z
+Entry 0192 | 2025-02-28T19:00:54Z
 
-**Change:** chore: upgrade runtime to latest LTS
-**Nonce:** 211821
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 866196
