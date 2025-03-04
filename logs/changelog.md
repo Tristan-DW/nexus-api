@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0194 | 2025-03-04T09:41:23Z
+Entry 0195 | 2025-03-04T12:46:12Z
 
-**Change:** fix: resolve startup race condition
-**Nonce:** 902105
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 184460
