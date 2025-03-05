@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0197 | 2025-03-04T17:31:35Z
+Entry 0198 | 2025-03-05T11:34:30Z
 
-**Change:** feat: implement export to CSV and PDF
-**Nonce:** 789093
+**Change:** test: add regression tests for known bugs
+**Nonce:** 849499
