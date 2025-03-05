@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0198 | 2025-03-05T11:34:30Z
+Entry 0199 | 2025-03-05T15:35:48Z
 
-**Change:** test: add regression tests for known bugs
-**Nonce:** 849499
+**Change:** fix: sanitize all user-supplied input
+**Nonce:** 241374
