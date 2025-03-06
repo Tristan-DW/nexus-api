@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0199 | 2025-03-05T15:35:48Z
+Entry 0200 | 2025-03-06T11:22:32Z
 
-**Change:** fix: sanitize all user-supplied input
-**Nonce:** 241374
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 430144
