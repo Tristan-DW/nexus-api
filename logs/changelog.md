@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0203 | 2025-03-08T13:00:23Z
+Entry 0204 | 2025-03-08T14:35:42Z
 
 **Change:** docs: initial README and setup guide
-**Nonce:** 772057
+**Nonce:** 930561
