@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0204 | 2025-03-08T14:35:42Z
+Entry 0205 | 2025-03-09T16:59:00Z
 
-**Change:** docs: initial README and setup guide
-**Nonce:** 930561
+**Change:** chore: configure linting and code formatting
+**Nonce:** 683351
