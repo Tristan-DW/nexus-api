@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0205 | 2025-03-09T16:59:00Z
+Entry 0206 | 2025-03-10T08:18:54Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 683351
+**Change:** test: end-to-end tests for checkout flow
+**Nonce:** 889894
