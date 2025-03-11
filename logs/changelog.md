@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0206 | 2025-03-10T08:18:54Z
+Entry 0207 | 2025-03-11T11:41:58Z
 
-**Change:** test: end-to-end tests for checkout flow
-**Nonce:** 889894
+**Change:** feat: add audit trail to entity mutations
+**Nonce:** 883910
