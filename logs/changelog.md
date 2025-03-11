@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0207 | 2025-03-11T11:41:58Z
+Entry 0208 | 2025-03-11T14:31:09Z
 
-**Change:** feat: add audit trail to entity mutations
-**Nonce:** 883910
+**Change:** feat: implement search and filter endpoints
+**Nonce:** 884564
