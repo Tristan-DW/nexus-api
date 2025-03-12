@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0210 | 2025-03-12T17:47:00Z
+Entry 0211 | 2025-03-12T21:20:58Z
 
-**Change:** fix: correct timestamp serialization format
-**Nonce:** 619800
+**Change:** fix: correct permission check logic
+**Nonce:** 874996
