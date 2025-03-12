@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0208 | 2025-03-11T14:31:09Z
+Entry 0209 | 2025-03-12T17:06:45Z
 
-**Change:** feat: implement search and filter endpoints
-**Nonce:** 884564
+**Change:** test: write smoke tests for critical flows
+**Nonce:** 595728
