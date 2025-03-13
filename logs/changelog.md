@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0211 | 2025-03-12T21:20:58Z
+Entry 0212 | 2025-03-13T17:19:15Z
 
-**Change:** fix: correct permission check logic
-**Nonce:** 874996
+**Change:** feat: add file upload and storage handling
+**Nonce:** 498456
