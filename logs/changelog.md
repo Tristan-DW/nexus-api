@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0213 | 2025-03-14T17:43:26Z
+Entry 0214 | 2025-03-14T19:07:46Z
 
-**Change:** fix: correct order status state machine
-**Nonce:** 723680
+**Change:** chore: configure linting and code formatting
+**Nonce:** 555852
