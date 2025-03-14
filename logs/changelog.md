@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0212 | 2025-03-13T17:19:15Z
+Entry 0213 | 2025-03-14T17:43:26Z
 
-**Change:** feat: add file upload and storage handling
-**Nonce:** 498456
+**Change:** fix: correct order status state machine
+**Nonce:** 723680
