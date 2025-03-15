@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0214 | 2025-03-14T19:07:46Z
+Entry 0215 | 2025-03-15T15:56:09Z
 
-**Change:** chore: configure linting and code formatting
-**Nonce:** 555852
+**Change:** fix: correct decimal rounding in calculations
+**Nonce:** 312896
