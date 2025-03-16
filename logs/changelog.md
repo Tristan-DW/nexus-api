@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0216 | 2025-03-16T10:39:11Z
+Entry 0217 | 2025-03-16T13:45:59Z
 
-**Change:** chore: configure Dependabot security updates
-**Nonce:** 439162
+**Change:** feat: bootstrap project scaffolding
+**Nonce:** 974706
