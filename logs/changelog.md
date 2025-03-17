@@ -1,6 +1,6 @@
 # Changelog
 
-Entry 0219 | 2025-03-17T13:36:13Z
+Entry 0220 | 2025-03-17T19:04:33Z
 
-**Change:** fix: resolve memory leak in event emitter
-**Nonce:** 533557
+**Change:** feat: add user management module
+**Nonce:** 710911
