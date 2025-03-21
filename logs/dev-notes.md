@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0003 | 2025-03-20T08:15:47Z
+Entry 0004 | 2025-03-21T12:19:20Z
 
-**Task:** test: cover authentication edge cases
-**Nonce:** 391775
+**Task:** fix: correct token expiry handling
+**Nonce:** 670935
