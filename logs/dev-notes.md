@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0004 | 2025-03-21T12:19:20Z
+Entry 0005 | 2025-03-25T12:05:29Z
 
-**Task:** fix: correct token expiry handling
-**Nonce:** 670935
+**Task:** perf: cache expensive aggregation queries
+**Nonce:** 285500
