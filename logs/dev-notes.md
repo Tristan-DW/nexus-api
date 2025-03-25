@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0005 | 2025-03-25T12:05:29Z
+Entry 0006 | 2025-03-25T19:26:20Z
 
-**Task:** perf: cache expensive aggregation queries
-**Nonce:** 285500
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 278361
