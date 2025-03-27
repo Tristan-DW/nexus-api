@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0006 | 2025-03-25T19:26:20Z
+Entry 0007 | 2025-03-27T12:18:38Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 278361
+**Task:** fix: prevent duplicate event processing
+**Nonce:** 922244
