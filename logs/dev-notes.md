@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0009 | 2025-03-30T08:31:29Z
+Entry 0010 | 2025-04-01T11:43:19Z
 
-**Task:** fix: handle connection pool exhaustion
-**Nonce:** 921676
+**Task:** chore: remove unused feature flag code
+**Nonce:** 335359
