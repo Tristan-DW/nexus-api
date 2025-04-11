@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0013 | 2025-04-11T09:34:33Z
+Entry 0014 | 2025-04-11T12:27:48Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 208416
+**Task:** fix: handle connection pool exhaustion
+**Nonce:** 750415
