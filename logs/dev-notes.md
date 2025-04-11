@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0012 | 2025-04-09T11:45:24Z
+Entry 0013 | 2025-04-11T09:34:33Z
 
-**Task:** perf: batch database writes for throughput
-**Nonce:** 142575
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 208416
