@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0015 | 2025-04-14T21:51:24Z
+Entry 0016 | 2025-04-15T14:51:52Z
 
-**Task:** fix: handle connection pool exhaustion
-**Nonce:** 363663
+**Task:** perf: add index to frequently queried columns
+**Nonce:** 122615
