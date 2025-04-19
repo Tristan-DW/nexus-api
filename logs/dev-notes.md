@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0016 | 2025-04-15T14:51:52Z
+Entry 0017 | 2025-04-19T12:50:20Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 122615
+**Task:** feat: implement webhook delivery system
+**Nonce:** 660026
