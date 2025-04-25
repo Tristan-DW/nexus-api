@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0017
+## Entry 0018
 
-- **Timestamp:** `2025-04-21T20:47:48Z`
-- **Commit:** 17 of 155
-- **Note:** refactor: decouple business logic from transport
-- **Nonce:** 376631
+- **Timestamp:** `2025-04-25T16:04:15Z`
+- **Commit:** 18 of 155
+- **Note:** feat: implement graceful shutdown
+- **Nonce:** 326768
