@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0021 | 2025-04-30T10:11:45Z
+Entry 0022 | 2025-05-01T14:46:58Z
 
-**Task:** fix: handle connection pool exhaustion
-**Nonce:** 988150
+**Task:** perf: cache expensive aggregation queries
+**Nonce:** 959913
