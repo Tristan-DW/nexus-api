@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0027 | 2025-05-09T08:40:26Z
+Entry 0028 | 2025-05-09T10:05:49Z
 
-**Task:** feat: add soft delete support
-**Nonce:** 721741
+**Task:** chore: lint and format entire codebase
+**Nonce:** 659576
