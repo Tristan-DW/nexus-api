@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0029 | 2025-05-09T12:33:29Z
+Entry 0030 | 2025-05-10T21:32:53Z
 
-**Task:** refactor: split monolithic service into modules
-**Nonce:** 148603
+**Task:** fix: resolve null dereference in auth middleware
+**Nonce:** 476375
