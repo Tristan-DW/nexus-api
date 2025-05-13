@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0030 | 2025-05-10T21:32:53Z
+Entry 0031 | 2025-05-13T14:38:07Z
 
-**Task:** fix: resolve null dereference in auth middleware
-**Nonce:** 476375
+**Task:** perf: cache expensive aggregation queries
+**Nonce:** 458110
