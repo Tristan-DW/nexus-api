@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0035 | 2025-05-19T15:01:38Z
+Entry 0036 | 2025-05-19T15:28:51Z
 
-**Task:** docs: add architecture decision records
-**Nonce:** 824132
+**Task:** fix: handle malformed JSON in request body
+**Nonce:** 761480
