@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0034 | 2025-05-19T12:40:41Z
+Entry 0035 | 2025-05-19T15:01:38Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 773880
+**Task:** docs: add architecture decision records
+**Nonce:** 824132
