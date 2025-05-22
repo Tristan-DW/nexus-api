@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0036 | 2025-05-19T15:28:51Z
+Entry 0037 | 2025-05-22T13:30:35Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 761480
+**Task:** feat: add role-based access control
+**Nonce:** 532350
