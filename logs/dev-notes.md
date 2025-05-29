@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0042 | 2025-05-28T14:32:43Z
+Entry 0043 | 2025-05-29T14:10:22Z
 
-**Task:** feat: extend API surface with new endpoints
-**Nonce:** 644758
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 578081
