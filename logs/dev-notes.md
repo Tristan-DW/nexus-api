@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0043 | 2025-05-29T14:10:22Z
+Entry 0044 | 2025-05-29T16:21:42Z
 
-**Task:** feat: expose Prometheus metrics endpoint
-**Nonce:** 578081
+**Task:** docs: add architecture decision records
+**Nonce:** 115754
