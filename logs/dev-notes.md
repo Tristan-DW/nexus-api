@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0044 | 2025-05-29T16:21:42Z
+Entry 0045 | 2025-06-01T11:17:32Z
 
-**Task:** docs: add architecture decision records
-**Nonce:** 115754
+**Task:** fix: correct token expiry handling
+**Nonce:** 118689
