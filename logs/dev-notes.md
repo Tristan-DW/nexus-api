@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0045 | 2025-06-01T11:17:32Z
+Entry 0046 | 2025-06-01T13:45:14Z
 
-**Task:** fix: correct token expiry handling
-**Nonce:** 118689
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 890540
