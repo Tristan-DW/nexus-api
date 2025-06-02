@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0046 | 2025-06-01T13:45:14Z
+Entry 0047 | 2025-06-02T08:29:49Z
 
-**Task:** refactor: move validation into dedicated layer
-**Nonce:** 890540
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 787295
