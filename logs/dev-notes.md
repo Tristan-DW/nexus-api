@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0049 | 2025-06-03T12:07:22Z
+Entry 0050 | 2025-06-04T16:15:28Z
 
-**Task:** refactor: move validation into dedicated layer
-**Nonce:** 889520
+**Task:** fix: correct pagination offset calculation
+**Nonce:** 435624
