@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0054 | 2025-06-09T16:50:05Z
+Entry 0055 | 2025-06-10T07:59:49Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 453868
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 815676
