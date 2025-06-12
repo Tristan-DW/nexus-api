@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0059 | 2025-06-12T15:03:10Z
+Entry 0060 | 2025-06-12T16:47:40Z
 
-**Task:** fix: handle connection pool exhaustion
-**Nonce:** 673994
+**Task:** docs: add architecture decision records
+**Nonce:** 837712
