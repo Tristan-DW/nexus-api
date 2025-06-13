@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0061 | 2025-06-13T17:03:59Z
+Entry 0062 | 2025-06-13T19:56:33Z
 
-**Task:** perf: batch database writes for throughput
-**Nonce:** 704429
+**Task:** fix: correct token expiry handling
+**Nonce:** 227612
