@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0060 | 2025-06-12T16:47:40Z
+Entry 0061 | 2025-06-13T17:03:59Z
 
-**Task:** docs: add architecture decision records
-**Nonce:** 837712
+**Task:** perf: batch database writes for throughput
+**Nonce:** 704429
