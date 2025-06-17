@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0063 | 2025-06-17T12:07:47Z
+Entry 0064 | 2025-06-17T13:11:43Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 302087
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 992507
