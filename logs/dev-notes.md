@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0064 | 2025-06-17T13:11:43Z
+Entry 0065 | 2025-06-22T18:33:20Z
 
-**Task:** feat: expose Prometheus metrics endpoint
-**Nonce:** 992507
+**Task:** feat: add full-text search capability
+**Nonce:** 582192
