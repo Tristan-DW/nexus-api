@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0070 | 2025-07-09T10:15:37Z
+Entry 0071 | 2025-07-10T12:16:04Z
 
-**Task:** chore: enforce strict TypeScript config
-**Nonce:** 359068
+**Task:** feat: expose Prometheus metrics endpoint
+**Nonce:** 104682
