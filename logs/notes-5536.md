@@ -1,6 +1,6 @@
 # Notes
 
-perf: avoid unnecessary re-renders
+fix: correct off-by-one in pagination
 
-Timestamp: 2025-07-12T15:40:34Z
-Nonce: 650897
+Timestamp: 2025-07-16T19:41:52Z
+Nonce: 489628
