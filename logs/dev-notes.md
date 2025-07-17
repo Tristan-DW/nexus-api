@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0076 | 2025-07-17T11:36:02Z
+Entry 0077 | 2025-07-17T12:23:12Z
 
-**Task:** chore: remove unused feature flag code
-**Nonce:** 601765
+**Task:** fix: handle malformed JSON in request body
+**Nonce:** 345388
