@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0075 | 2025-07-15T16:30:38Z
+Entry 0076 | 2025-07-17T11:36:02Z
 
-**Task:** perf: lazy-load heavy dependencies
-**Nonce:** 379514
+**Task:** chore: remove unused feature flag code
+**Nonce:** 601765
