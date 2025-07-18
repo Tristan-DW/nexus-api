@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct off-by-one in pagination
+fix: handle empty array input
 
-Timestamp: 2025-07-16T19:41:52Z
-Nonce: 489628
+Timestamp: 2025-07-18T16:03:35Z
+Nonce: 424442
