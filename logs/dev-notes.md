@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0077 | 2025-07-17T12:23:12Z
+Entry 0078 | 2025-07-20T13:52:49Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 345388
+**Task:** fix: correct float precision in billing calc
+**Nonce:** 582694
