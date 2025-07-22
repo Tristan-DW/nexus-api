@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0078 | 2025-07-20T13:52:49Z
+Entry 0079 | 2025-07-22T15:36:40Z
 
-**Task:** fix: correct float precision in billing calc
-**Nonce:** 582694
+**Task:** feat: add full-text search capability
+**Nonce:** 780010
