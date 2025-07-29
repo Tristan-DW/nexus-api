@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0082 | 2025-07-29T08:09:39Z
+Entry 0083 | 2025-07-29T19:03:15Z
 
-**Task:** feat: add role-based access control
-**Nonce:** 226857
+**Task:** refactor: extract notification service
+**Nonce:** 884853
