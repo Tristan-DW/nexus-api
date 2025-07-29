@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0081 | 2025-07-27T19:59:52Z
+Entry 0082 | 2025-07-29T08:09:39Z
 
-**Task:** chore: lint and format entire codebase
-**Nonce:** 511463
+**Task:** feat: add role-based access control
+**Nonce:** 226857
