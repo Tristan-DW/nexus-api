@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0083 | 2025-07-29T19:03:15Z
+Entry 0084 | 2025-07-31T11:41:46Z
 
-**Task:** refactor: extract notification service
-**Nonce:** 884853
+**Task:** perf: add index to frequently queried columns
+**Nonce:** 388625
