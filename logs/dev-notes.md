@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0084 | 2025-07-31T11:41:46Z
+Entry 0085 | 2025-08-05T08:03:37Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 388625
+**Task:** fix: prevent duplicate event processing
+**Nonce:** 485957
