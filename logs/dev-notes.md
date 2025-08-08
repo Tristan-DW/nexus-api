@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0086 | 2025-08-06T12:52:13Z
+Entry 0087 | 2025-08-08T12:09:52Z
 
-**Task:** chore: lint and format entire codebase
-**Nonce:** 258364
+**Task:** feat: add full-text search capability
+**Nonce:** 733032
