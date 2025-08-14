@@ -1,6 +1,6 @@
 # Notes
 
-chore: clean up after merge
+fix: correct response envelope format
 
-Timestamp: 2025-08-01T16:46:06Z
-Nonce: 172183
+Timestamp: 2025-08-14T11:48:25Z
+Nonce: 829207
