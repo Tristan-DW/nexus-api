@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0094 | 2025-08-15T20:15:02Z
+Entry 0095 | 2025-08-18T08:07:17Z
 
-**Task:** feat: support multi-tenant data isolation
-**Nonce:** 131672
+**Task:** fix: handle malformed JSON in request body
+**Nonce:** 754752
