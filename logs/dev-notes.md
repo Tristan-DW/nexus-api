@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0095 | 2025-08-18T08:07:17Z
+Entry 0096 | 2025-08-21T10:06:10Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 754752
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 693790
