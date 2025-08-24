@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0096 | 2025-08-21T10:06:10Z
+Entry 0097 | 2025-08-24T18:03:14Z
 
-**Task:** refactor: move validation into dedicated layer
-**Nonce:** 693790
+**Task:** fix: correct token expiry handling
+**Nonce:** 628429
