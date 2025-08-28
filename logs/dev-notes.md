@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0099 | 2025-08-28T08:54:09Z
+Entry 0100 | 2025-08-28T11:49:20Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 339601
+**Task:** feat: add idempotency key support
+**Nonce:** 316977
