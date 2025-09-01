@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0104 | 2025-08-30T19:57:22Z
+Entry 0105 | 2025-09-01T11:17:17Z
 
-**Task:** feat: add role-based access control
-**Nonce:** 730964
+**Task:** chore: enforce strict TypeScript config
+**Nonce:** 984556
