@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0107 | 2025-09-03T13:57:34Z
+Entry 0108 | 2025-09-03T17:30:14Z
 
-**Task:** perf: cache expensive aggregation queries
-**Nonce:** 990630
+**Task:** refactor: extract notification service
+**Nonce:** 399619
