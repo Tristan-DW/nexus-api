@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0110 | 2025-09-04T10:31:58Z
+Entry 0111 | 2025-09-08T08:58:44Z
 
-**Task:** fix: resolve CORS preflight rejection
-**Nonce:** 857619
+**Task:** refactor: extract notification service
+**Nonce:** 764555
