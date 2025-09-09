@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0112 | 2025-09-09T15:47:15Z
+Entry 0113 | 2025-09-09T15:53:16Z
 
-**Task:** fix: correct pagination offset calculation
-**Nonce:** 601538
+**Task:** feat: add idempotency key support
+**Nonce:** 747524
