@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0111 | 2025-09-08T08:58:44Z
+Entry 0112 | 2025-09-09T15:47:15Z
 
-**Task:** refactor: extract notification service
-**Nonce:** 764555
+**Task:** fix: correct pagination offset calculation
+**Nonce:** 601538
