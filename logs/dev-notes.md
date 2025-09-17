@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0115 | 2025-09-16T17:20:21Z
+Entry 0116 | 2025-09-17T17:18:22Z
 
-**Task:** fix: handle malformed JSON in request body
-**Nonce:** 597554
+**Task:** fix: prevent duplicate event processing
+**Nonce:** 813832
