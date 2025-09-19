@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct response envelope format
+feat: add missing null checks
 
-Timestamp: 2025-08-14T11:48:25Z
-Nonce: 829207
+Timestamp: 2025-09-19T13:15:17Z
+Nonce: 598782
