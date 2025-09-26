@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0077
+## Entry 0078
 
-- **Timestamp:** `2025-09-25T12:03:18Z`
-- **Commit:** 77 of 155
-- **Note:** chore: clean up unused imports
-- **Nonce:** 507795
+- **Timestamp:** `2025-09-26T13:41:01Z`
+- **Commit:** 78 of 155
+- **Note:** feat: add pagination to list endpoints
+- **Nonce:** 142915
