@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0121 | 2025-09-29T08:38:20Z
+Entry 0122 | 2025-10-01T13:47:21Z
 
-**Task:** test: integration tests for payment flow
-**Nonce:** 523510
+**Task:** chore: lint and format entire codebase
+**Nonce:** 262310
