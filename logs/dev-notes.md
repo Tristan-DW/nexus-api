@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0128 | 2025-10-10T10:45:55Z
+Entry 0129 | 2025-10-13T17:12:20Z
 
-**Task:** fix: correct date range boundary condition
-**Nonce:** 338852
+**Task:** feat: add bulk import endpoint
+**Nonce:** 269640
