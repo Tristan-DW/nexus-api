@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0130 | 2025-10-19T15:31:47Z
+Entry 0131 | 2025-10-20T11:28:56Z
 
-**Task:** fix: prevent duplicate event processing
-**Nonce:** 933457
+**Task:** docs: document deployment procedures
+**Nonce:** 816833
