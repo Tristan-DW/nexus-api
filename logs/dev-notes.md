@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0131 | 2025-10-20T11:28:56Z
+Entry 0132 | 2025-10-21T15:56:54Z
 
-**Task:** docs: document deployment procedures
-**Nonce:** 816833
+**Task:** refactor: unify error response schema
+**Nonce:** 320355
