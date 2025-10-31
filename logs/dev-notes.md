@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0136 | 2025-10-31T13:35:59Z
+Entry 0137 | 2025-10-31T19:42:35Z
 
-**Task:** refactor: consolidate environment config loading
-**Nonce:** 137447
+**Task:** test: integration tests for payment flow
+**Nonce:** 935309
