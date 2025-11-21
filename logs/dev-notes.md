@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0149 | 2025-11-18T08:36:55Z
+Entry 0150 | 2025-11-21T15:18:40Z
 
-**Task:** chore: bump dependency versions
-**Nonce:** 358897
+**Task:** feat: add bulk import endpoint
+**Nonce:** 630072
