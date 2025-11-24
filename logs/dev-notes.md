@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0150 | 2025-11-21T15:18:40Z
+Entry 0151 | 2025-11-24T15:08:46Z
 
-**Task:** feat: add bulk import endpoint
-**Nonce:** 630072
+**Task:** feat: extend API surface with new endpoints
+**Nonce:** 512924
