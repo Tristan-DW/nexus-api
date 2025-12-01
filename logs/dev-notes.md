@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0153 | 2025-11-28T09:30:08Z
+Entry 0154 | 2025-12-01T09:40:03Z
 
-**Task:** docs: document deployment procedures
-**Nonce:** 543655
+**Task:** docs: add architecture decision records
+**Nonce:** 768977
