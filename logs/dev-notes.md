@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0156 | 2025-12-02T15:34:02Z
+Entry 0157 | 2025-12-03T18:41:39Z
 
-**Task:** fix: correct date range boundary condition
-**Nonce:** 815142
+**Task:** feat: add soft delete support
+**Nonce:** 550480
