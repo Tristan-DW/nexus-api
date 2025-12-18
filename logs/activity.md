@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0119
+## Entry 0120
 
-- **Timestamp:** `2025-12-16T12:27:06Z`
-- **Commit:** 119 of 155
-- **Note:** fix: correct API response serialization
-- **Nonce:** 702125
+- **Timestamp:** `2025-12-18T16:30:51Z`
+- **Commit:** 120 of 155
+- **Note:** fix: handle empty collection edge case
+- **Nonce:** 896182
