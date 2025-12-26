@@ -1,6 +1,6 @@
 # Notes
 
-perf: avoid unnecessary re-renders
+feat: add debug flag support
 
-Timestamp: 2025-11-06T15:33:10Z
-Nonce: 371629
+Timestamp: 2025-12-26T14:46:10Z
+Nonce: 368005
