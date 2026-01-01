@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0167 | 2025-12-30T08:21:56Z
+Entry 0168 | 2026-01-01T12:52:14Z
 
-**Task:** feat: implement background job queue
-**Nonce:** 557779
+**Task:** docs: add architecture decision records
+**Nonce:** 289636
