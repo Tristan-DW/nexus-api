@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0170 | 2026-01-02T14:21:10Z
+Entry 0171 | 2026-01-03T09:26:41Z
 
-**Task:** fix: correct token expiry handling
-**Nonce:** 745120
+**Task:** refactor: unify error response schema
+**Nonce:** 104642
