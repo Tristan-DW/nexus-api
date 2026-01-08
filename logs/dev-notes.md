@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0172 | 2026-01-05T15:14:24Z
+Entry 0173 | 2026-01-08T09:26:24Z
 
-**Task:** fix: correct date range boundary condition
-**Nonce:** 312790
+**Task:** fix: resolve CORS preflight rejection
+**Nonce:** 107005
