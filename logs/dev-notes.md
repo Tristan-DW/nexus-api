@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0178 | 2026-01-11T14:28:12Z
+Entry 0179 | 2026-01-12T11:23:07Z
 
-**Task:** perf: add index to frequently queried columns
-**Nonce:** 985443
+**Task:** docs: document deployment procedures
+**Nonce:** 948434
