@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0180 | 2026-01-13T16:13:10Z
+Entry 0181 | 2026-01-16T15:32:39Z
 
-**Task:** docs: add architecture decision records
-**Nonce:** 672057
+**Task:** chore: enforce strict TypeScript config
+**Nonce:** 485020
