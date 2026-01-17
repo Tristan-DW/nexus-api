@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0183 | 2026-01-16T18:58:04Z
+Entry 0184 | 2026-01-17T18:30:01Z
 
-**Task:** test: cover authentication edge cases
-**Nonce:** 701226
+**Task:** feat: add bulk import endpoint
+**Nonce:** 292808
