@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0132
+## Entry 0133
 
-- **Timestamp:** `2026-01-20T09:28:58Z`
-- **Commit:** 132 of 155
-- **Note:** fix: handle empty collection edge case
-- **Nonce:** 397407
+- **Timestamp:** `2026-01-20T19:56:25Z`
+- **Commit:** 133 of 155
+- **Note:** feat: add pagination to list endpoints
+- **Nonce:** 260529
