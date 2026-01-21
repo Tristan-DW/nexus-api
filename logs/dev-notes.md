@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0185 | 2026-01-20T13:04:06Z
+Entry 0186 | 2026-01-21T19:42:05Z
 
-**Task:** feat: add idempotency key support
-**Nonce:** 630034
+**Task:** test: integration tests for payment flow
+**Nonce:** 209565
