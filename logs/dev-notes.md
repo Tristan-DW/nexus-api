@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0186 | 2026-01-21T19:42:05Z
+Entry 0187 | 2026-01-23T10:44:15Z
 
-**Task:** test: integration tests for payment flow
-**Nonce:** 209565
+**Task:** chore: enforce strict TypeScript config
+**Nonce:** 132045
