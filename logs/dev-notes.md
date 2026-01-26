@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0189 | 2026-01-24T13:03:48Z
+Entry 0190 | 2026-01-26T14:33:29Z
 
-**Task:** chore: bump dependency versions
-**Nonce:** 894931
+**Task:** feat: add full-text search capability
+**Nonce:** 538043
