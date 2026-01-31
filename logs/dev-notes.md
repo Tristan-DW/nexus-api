@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0193 | 2026-01-30T11:29:55Z
+Entry 0194 | 2026-01-31T19:04:18Z
 
-**Task:** fix: resolve null dereference in auth middleware
-**Nonce:** 998897
+**Task:** refactor: extract notification service
+**Nonce:** 595137
