@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0195 | 2026-02-02T09:00:25Z
+Entry 0196 | 2026-02-02T15:47:00Z
 
-**Task:** refactor: move validation into dedicated layer
-**Nonce:** 884868
+**Task:** feat: add role-based access control
+**Nonce:** 850543
