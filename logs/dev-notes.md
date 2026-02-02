@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0194 | 2026-01-31T19:04:18Z
+Entry 0195 | 2026-02-02T09:00:25Z
 
-**Task:** refactor: extract notification service
-**Nonce:** 595137
+**Task:** refactor: move validation into dedicated layer
+**Nonce:** 884868
