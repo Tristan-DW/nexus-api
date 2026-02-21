@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0204 | 2026-02-19T12:06:22Z
+Entry 0205 | 2026-02-21T13:04:29Z
 
-**Task:** chore: update base Docker image
-**Nonce:** 557575
+**Task:** test: cover authentication edge cases
+**Nonce:** 283138
