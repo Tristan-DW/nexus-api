@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0205 | 2026-02-21T13:04:29Z
+Entry 0206 | 2026-02-25T20:05:19Z
 
-**Task:** test: cover authentication edge cases
-**Nonce:** 283138
+**Task:** docs: document deployment procedures
+**Nonce:** 586198
