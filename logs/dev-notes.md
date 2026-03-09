@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0214 | 2026-03-09T13:10:11Z
+Entry 0215 | 2026-03-09T17:11:58Z
 
-**Task:** feat: add bulk import endpoint
-**Nonce:** 777477
+**Task:** refactor: unify error response schema
+**Nonce:** 699379
