@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0213 | 2026-03-09T09:19:21Z
+Entry 0214 | 2026-03-09T13:10:11Z
 
-**Task:** fix: correct float precision in billing calc
-**Nonce:** 993810
+**Task:** feat: add bulk import endpoint
+**Nonce:** 777477
