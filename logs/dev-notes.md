@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0217 | 2026-03-10T08:37:41Z
+Entry 0218 | 2026-03-16T15:59:07Z
 
-**Task:** fix: correct float precision in billing calc
-**Nonce:** 819511
+**Task:** test: integration tests for payment flow
+**Nonce:** 862617
