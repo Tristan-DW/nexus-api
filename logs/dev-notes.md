@@ -1,6 +1,6 @@
 # Dev Notes
 
-Entry 0219 | 2026-03-16T17:13:37Z
+Entry 0220 | 2026-03-17T14:47:34Z
 
-**Task:** refactor: move validation into dedicated layer
-**Nonce:** 329835
+**Task:** refactor: unify error response schema
+**Nonce:** 646623
