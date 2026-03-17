@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker" />
 
 <br/>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Tristan-DW/nexus-api?style=for-the-badge&color=6e40c9)
 ![GitHub stars](https://img.shields.io/github/stars/Tristan-DW/nexus-api?style=for-the-badge&color=f0883e)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-238636?style=for-the-badge)
 
 # nexus-api
 
-> **Production-grade REST API built with Node.js, Express, PostgreSQL, Redis, and JWT authentication.**
+> **Production-grade REST API built with Laravel, MySQL, Redis, and Sanctum token authentication.**
 
 </div>
 
@@ -21,7 +22,7 @@
 
 ## Overview
 
-**nexus-api** is a battle-tested RESTful API foundation covering the full production stack - structured routing, JWT-based auth with refresh tokens, PostgreSQL persistence, Redis caching, request validation, rate limiting, and centralized error handling.
+**nexus-api** is a battle-tested API foundation built on Laravel. It covers the full production stack: structured routing, Sanctum-based auth with token management, MySQL persistence, Redis caching, form request validation, rate limiting, and centralized error handling. Drop it in as the backend for any web or mobile application.
 
 ---
 
@@ -29,13 +30,13 @@
 
 | Feature | Description |
 |---|---|
-| **JWT Auth** | Access + refresh token flow with Redis token blacklisting |
-| **PostgreSQL** | Schema migrations, connection pooling via `pg` |
-| **Redis Caching** | Response caching with configurable TTL |
-| **Rate Limiting** | Per-IP and per-user rate limiting via Redis |
-| **Validation** | Request body/param validation with `joi` |
-| **Error Handling** | Centralized error middleware with structured responses |
-| **Logging** | Structured request logging with `morgan` + `winston` |
+| **Laravel Sanctum Auth** | API token issuance, revocation, and middleware-guarded routes |
+| **MySQL** | Eloquent ORM, migrations, seeders, query optimization |
+| **Redis Caching** | Response and query caching with configurable TTL via Laravel Cache |
+| **Rate Limiting** | Per-user and per-IP throttle middleware |
+| **Form Request Validation** | Dedicated request classes with structured error responses |
+| **API Resources** | Consistent JSON response shaping via Laravel Resources |
+| **Queue Workers** | Background jobs via Laravel Queues backed by Redis |
 | **Docker** | Full `docker-compose` setup for local development |
 
 ---
@@ -49,12 +50,13 @@ cd nexus-api
 cp .env.example .env
 docker-compose up -d
 
-npm install
-npm run migrate
-npm run dev
+composer install
+php artisan key:generate
+php artisan migrate --seed
+php artisan serve
 ```
 
-Server starts at `http://localhost:3000`
+API runs at `http://localhost:8000`
 
 ---
 
@@ -62,13 +64,12 @@ Server starts at `http://localhost:3000`
 
 | Method | Endpoint | Description | Auth |
 |---|---|---|---|
-| `POST` | `/auth/register` | Register new user | No |
-| `POST` | `/auth/login` | Login, receive tokens | No |
-| `POST` | `/auth/refresh` | Refresh access token | No |
-| `POST` | `/auth/logout` | Invalidate refresh token | Yes |
-| `GET` | `/users/me` | Get current user profile | Yes |
-| `PUT` | `/users/me` | Update current user | Yes |
-| `GET` | `/health` | Service health check | No |
+| `POST` | `/api/auth/register` | Register new user | No |
+| `POST` | `/api/auth/login` | Login, receive token | No |
+| `POST` | `/api/auth/logout` | Revoke current token | Yes |
+| `GET` | `/api/user` | Get authenticated user | Yes |
+| `PUT` | `/api/user` | Update profile | Yes |
+| `GET` | `/api/health` | Service health check | No |
 
 ---
 
@@ -76,20 +77,21 @@ Server starts at `http://localhost:3000`
 
 ```
 nexus-api/
-├── src/
-│   ├── config/         # DB, Redis, env config
-│   ├── controllers/    # Route handlers
-│   ├── middleware/     # Auth, validation, error handling
-│   ├── models/         # Database models
-│   ├── routes/         # Express routers
-│   ├── services/       # Business logic layer
-│   ├── utils/          # Helpers and utilities
-│   └── app.js          # Express app entry point
-├── migrations/         # SQL migration files
-├── tests/              # Jest test suite
+├── app/
+│   ├── Http/
+│   │   ├── Controllers/    # Route handlers
+│   │   ├── Requests/       # Form validation
+│   │   └── Resources/      # JSON response shaping
+│   ├── Models/             # Eloquent models
+│   └── Services/           # Business logic
+├── database/
+│   ├── migrations/
+│   └── seeders/
+├── routes/
+│   └── api.php
 ├── docker-compose.yml
 ├── .env.example
-└── package.json
+└── composer.json
 ```
 
 ---
@@ -97,16 +99,21 @@ nexus-api/
 ## Environment Variables
 
 ```env
-PORT=3000
-NODE_ENV=development
+APP_NAME=nexus-api
+APP_ENV=local
+APP_KEY=
 
-DATABASE_URL=postgresql://user:password@localhost:5432/nexus
-REDIS_URL=redis://localhost:6379
+DB_CONNECTION=mysql
+DB_HOST=mysql
+DB_PORT=3306
+DB_DATABASE=nexus
+DB_USERNAME=nexus
+DB_PASSWORD=secret
 
-JWT_SECRET=your_jwt_secret
-JWT_EXPIRES_IN=15m
-JWT_REFRESH_SECRET=your_refresh_secret
-JWT_REFRESH_EXPIRES_IN=7d
+CACHE_DRIVER=redis
+QUEUE_CONNECTION=redis
+REDIS_HOST=redis
+REDIS_PORT=6379
 ```
 
 ---
